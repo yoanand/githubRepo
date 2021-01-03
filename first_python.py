@@ -1,0 +1,1 @@
+print('This is my first pycharm code implementation')
